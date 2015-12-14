@@ -1,0 +1,178 @@
+.navbar-default
+{
+	background-image: none;
+	background-color: #232c3c;
+	color: #fff;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+    text-shadow:none;
+    font-size: 25px;
+    font-family: Corbel;
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand
+{
+    margin-left: 0;
+}
+.navbar-brand 
+{
+	display: inline-block;
+	margin-top: 12px;
+	color: #fff;
+	padding: 15px 15px 15px 0;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover
+{
+    color: #fff;
+    text-shadow:none;
+    background-color: transparent;
+}
+.navbar-right, .navbar-nav
+{
+	margin-top: 21px;
+	font-family: Corbel;
+	font-size: 15px;
+	color: #fff;
+}
+.navbar-default .navbar-nav > li > a
+{
+    color: #fff;
+    border: 2px solid transparent;
+    text-shadow:none;
+    padding-top: 6px;
+	padding-bottom: 6px;
+}
+.navbar-default .navbar-nav > li > a:hover
+{
+    color: #fff;
+    border: 2px solid #fff;
+
+}
+.bar 
+{
+	margin-top: 20px;
+}
+.icon
+{
+	padding-right: 0;
+	padding-left: 0;
+	width: 5%;
+}
+.glyphicon {
+    position: relative;
+    top: 3px;
+    float: right;
+    display: inline-block;
+    font-family: "Glyphicons Halflings";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    font-size: 26px;
+}
+.search input[type="text"]
+{
+	border-radius: 0;
+	box-shadow: none;
+}
+.search
+{
+	width: 87%;
+}
+.box
+{
+	width: 3%;
+	padding-left: 4px;
+}
+.box a
+{
+	color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 33px;
+    font-family: Corbel;
+}
+
+.glo
+{
+	margin-top: 130px;
+}
+
+.glo h2
+{
+	font-family: Corbel;
+	margin-top: 75px;
+	margin-bottom: 55px;
+}
+.glolist
+{
+	font-size: 18px;
+	font-family: Corbel;
+	padding-left: 0;
+	font-weight: 600;
+	display: inline-block;
+}
+.glolist li
+{
+   display:inline;
+   outline: none;
+   list-style:none;  
+   color: #000;
+   
+}
+.glolist li > a 
+{
+	color: #000;
+	padding: 12px;
+	outline: none;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+.glolist li > a:hover
+{
+	background-color: #F5AB35;
+	padding: 12px;
+	outline: none;
+}
+.glolist li a:focus, .glolist li a:active
+{
+	outline: none;
+	background-color: #F5AB35;
+}
+.text
+{
+    position:relative;
+    display:none;
+    padding: 10px 30px 0px 5px;
+    position: absolute;
+    border: 2px solid rgb(204, 204, 204);
+    margin-right: 104px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.text h5
+{
+	font-size: 22px;
+	font-family: Corbel;
+	padding-left: 5px;
+}
+.text p 
+{
+	font-family: Corbel;
+	font-size: 15px;
+	font-weight: 100;
+	padding-left: 7px;
+	text-align: left;
+}
+#one .text, #three .text
+{
+    background:#fff;
+}
+
+
+.white
+{
+	margin-top: 200px;
+	height: 500px;
+}
